@@ -1,0 +1,16 @@
+# Entornos virtuales (Carpetas pesadas)
+.venv/
+env/
+venv/
+ENV/
+
+# Archivos de caché de Python
+**/__pycache__/
+*.py[cod]
+
+# Variables de entorno (Datos sensibles)
+.env
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
